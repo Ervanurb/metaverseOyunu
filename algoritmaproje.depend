@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734771070 source:c:\calismalar\avp-c\algoritmaproje\main.c
+	<stdio.h>
+	<stdlib.h>
+
